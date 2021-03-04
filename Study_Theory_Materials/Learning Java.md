@@ -1,8 +1,4 @@
----
-title: Learning Java
-created: '2021-03-02T18:25:21.695Z'
-modified: '2021-03-02T18:43:18.281Z'
----
+
 
 # Learning Java
 
